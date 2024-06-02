@@ -64,4 +64,4 @@ Create a new Pull Request.
  Feel free to reach out to me via email or through my LinkedIn profile.
 
 Email: umarkhaji456@gmail.com
-LinkedIn: [Click Here](www.linkedin.com/in/umar-farook-8a79a9282).
+LinkedIn: www.linkedin.com/in/umar-farook-8a79a9282
