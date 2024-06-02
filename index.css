@@ -17,6 +17,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
+    
 }
 
 .options-div ul {
@@ -39,6 +40,7 @@ header {
 .index-page {
     padding: 20px;
     background-color:rgb(42, 42, 42);
+    margin-top: 12px;
 }
 
 .main-details {
@@ -48,12 +50,12 @@ header {
 }
 
 .dev-img img {
-    height: 150px;
-    width: 150px;
+    height: 140px;
+    width: 140px;
     border-radius: 50%;
     margin-right: 20px;
-    object-fit:cover;
-    //border:2px solid white;
+    object-fit:contain;
+    border:2px solid white;
 }
 
 .dev-info {
