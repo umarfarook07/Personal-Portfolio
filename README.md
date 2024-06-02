@@ -32,7 +32,7 @@ This is my personal portfolio website. It includes sections such as an introduct
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Bootstrap** (or any other frameworks/libraries you used)
+- **Bootstrap**
 - **GitHub Pages** for deployment
 
 ## Installation
