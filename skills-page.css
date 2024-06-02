@@ -15,7 +15,7 @@
 
 .skills {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 20px;
     padding: 20px;
 }
@@ -60,8 +60,8 @@
     color: #007BFF;
 }
 
-.skill:nth-child(odd) {
-    border: 2px solid lightcoral;
+.skill{
+    border: 2px solid darkred;
 }
 
 .skill-list {

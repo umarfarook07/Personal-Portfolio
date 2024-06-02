@@ -20,7 +20,7 @@ footer{
   align-items: center;
   text-align: center;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 18px;
   color: white;
   padding: 20px;
   margin: 10px;
@@ -46,8 +46,8 @@ footer{
         padding: 25px;
     }
     .social-media a {
-        font-size: 20px;
+        font-size: 12px;
+        padding: 10px;
+        margin: 5px;
     }
-    padding: 10px;
-    margin: 5px;
 }
